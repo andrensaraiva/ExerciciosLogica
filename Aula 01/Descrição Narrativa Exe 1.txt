@@ -1,0 +1,36 @@
+Problemas do site:
+
+Extremamente limitado (Somente em HTML)
+Design Datado
+Fonte Pequena 
+Muito Espaço em Branco
+Pessima experiencia de usuario
+Interface ruim
+Falta de hierarquia em elementos importante
+informações escondidas
+
+O que foi mudado:
+
+Menu Principal:
+Nova logo
+Botões importantes a mostra (Introdução sobre a marca e localização)
+Novas funcionalidades (Login, Carrinho de Compras e redes sociais)
+
+About Us: 
+Design diferente das outras paginas
+Mantendo a ideia original mas com uma estetica 
+Adição de redes socias
+
+Cupcakes:
+Modernizada no site
+Botão de Adcionar e retirar do carrinho
+
+Events:
+Juntamos as paginas Corporate Events e Occasions em uma só
+Somente infomrações diretas e necessárias
+
+Delivery:
+Link direcionado para pagina de compras
+Mesmo conteudo mas com novo design
+
+
